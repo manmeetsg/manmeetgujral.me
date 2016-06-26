@@ -3,8 +3,10 @@
 
 
 h1 {
-  font: "Courier New";
+  text-align: center;
+  font: "Helvetica";
   font-size: 250%;
+  color: white;
 }
 
 body {
