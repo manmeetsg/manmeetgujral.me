@@ -30,6 +30,12 @@ body {
   background: #0E1013;
 }
 
+/* disable scrolling */
+body, html {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
 .container {
   width: 200px;
   height: 100px;
