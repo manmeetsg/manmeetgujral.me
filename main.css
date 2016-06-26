@@ -28,13 +28,14 @@ body {
   margin: 0;
   padding: 0;
   background: #0E1013;
-  overflow-y: hidden;
+  overflow: hidden;
   position: relative;
 }
 
 /* disable scrolling */
 body, html {
     overflow: hidden;
+    position: relative;
 }
 
 .container {
