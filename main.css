@@ -1,6 +1,12 @@
 /* Main CSS */
 /* Animations taken from http://www.hongkiat.com/blog/creative-css-animations/ */
 
+
+h1 {
+  font: "Courier New";
+  font-size: 250%;
+}
+
 body {
   margin: 0;
   padding: 0;
