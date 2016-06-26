@@ -4,8 +4,15 @@
 
 h1 {
   text-align: center;
-  font: "Helvetica";
-  font-size: 250%;
+  font: "Arial";
+  font-size: 270%;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  font: "Arial";
+  font-size: 270%;
   color: white;
 }
 
