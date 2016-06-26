@@ -1,10 +1,12 @@
+/* Manmeet Gujral, with code taken from
+http://www.hongkiat.com/blog/creative-css-animations/ /*
 /* Main CSS */
 
 
 
 h1 {
   text-align: center;
-  font: "Arial";
+  font-family: "Arial", Helvetica, sans-serif;
   font-size: 270%;
   color: white;
 }
@@ -12,13 +14,16 @@ h1 {
 h2 {
   line-height: 8em;
   text-align: center;
-  font: "Arial";
+  font: "Arial", Helvetica, sans-serif;
   font-size: 270%;
   color: white;
 }
 
+
+
+/* NOTE */
 /* Animations taken from http://www.hongkiat.com/blog/creative-css-animations/ */
-/* The following code is copied from that source to add a cool animation */
+/* All of the following code is copied from that source to add a cool animation */
 body {
   margin: 0;
   padding: 0;
