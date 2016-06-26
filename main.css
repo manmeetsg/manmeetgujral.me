@@ -1,5 +1,5 @@
 /* Main CSS */
-/* Animations taken from http://www.hongkiat.com/blog/creative-css-animations/ */
+
 
 
 h1 {
@@ -10,12 +10,15 @@ h1 {
 }
 
 h2 {
+  line-height: 2em;
   text-align: center;
   font: "Arial";
   font-size: 270%;
   color: white;
 }
 
+/* Animations taken from http://www.hongkiat.com/blog/creative-css-animations/ */
+/* The following code is copied from that source to add a cool animation */
 body {
   margin: 0;
   padding: 0;
