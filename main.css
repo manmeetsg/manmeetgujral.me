@@ -24,6 +24,7 @@ h2 {
 /* NOTE */
 /* Animations taken from http://www.hongkiat.com/blog/creative-css-animations/ */
 /* All of the following code is copied from that source to add a cool animation */
+/* The following code creates ball objects that move around on the screen*/
 body {
   margin: 0;
   padding: 0;
